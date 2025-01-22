@@ -1,0 +1,48 @@
+* {
+	background-color: #404357;
+	box-sizing: border-box;
+	font-family: Montserrat;
+	color: inherit;
+	text-decoration: none;
+}
+
+.header {
+	display: flex;
+	color: white;
+	padding-right: 30px;
+	padding-left: 180px;
+	gap: 270px;
+}
+
+.link {
+	gap: 70px;
+}
+
+.hero {
+	display: flex;
+	color: white;
+	padding-left: 180px;
+	gap: 300px;
+}
+
+.image-placeholder img {
+	height: 300px;
+	width: 400;
+	border-radius: 12px;
+}
+
+
+.hero-text {
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	width: 300px;
+}
+
+.signButton1 {
+	width: 80px;
+	height: 40px;
+	background-color: #2d9afa;
+	border-radius: 12px;
+	border: none;
+}
